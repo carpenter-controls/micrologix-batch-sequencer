@@ -4,6 +4,7 @@ Controls project demonstrating a fill, mix, and drain cycle using a ML1100 contr
 
 ## Overview
 - Process: Push button begins water fill process, then mixture fill, then mixing, and then drainage.
+- See [state diagram](docs/state-diagram.md) for the full sequence.
 
 ## Hardware / Software
 - Allen-Bradley MicroLogix 1100, RSLogix 500
